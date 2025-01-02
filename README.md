@@ -48,11 +48,7 @@ Feel free to explore these projects to apply your data analysis skills in real-w
 
 Contributions to this repository are welcome! If you have suggestions for improvement, bug fixes, or additional topics you'd like to see covered, please feel free to open an issue or submit a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Acknowledgements
 
-Special thanks to the Python community for their invaluable contributions to the development of Python and its ecosystem of libraries and resources.
+Special thanks to 365 Careers for developing these tutorials and the Python community and for their invaluable contributions to the development of Python and its ecosystem of libraries and resources.
 
